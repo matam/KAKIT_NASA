@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NASA-APOD</string>
+    <string name="getImage">Get Image</string>
+    <string name="showButton">Show</string>
+    <string name="deleteButton">Delete</string>
+    <string name="image_description">Picture of the Day</string>
+</resources>
